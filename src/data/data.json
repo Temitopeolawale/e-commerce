@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "product_name":"RED DENT",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, temporibus alias velit ipsum, libero placeat unde hic accusamus eum commodi, sequi mollitia aperiam. Inventore hic nemo repellat accusamus eveniet qui, ",
+        "img":"/asset/pexels-alexandra-maria-58259-336372.jpg",
+        "price":"$400"
+    },
+    {
+        "id":2,
+        "product_name":"TOTE BAG",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, temporibus alias velit ipsum, libero placeat unde hic accusamus eum commodi, sequi mollitia aperiam. Inventore hic nemo repellat accusamus eveniet qui, ",
+        "img":"/asset/pexels-cottonbro-4068314.jpg",
+        "price":"$1400"
+    },
+    {
+        "id":3,
+        "product_name":"MUTTON BAG",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, temporibus alias velit ipsum, libero placeat unde hic accusamus eum commodi, sequi mollitia aperiam. Inventore hic nemo repellat accusamus eveniet qui, ",
+        "img":"/asset/pexels-elenarubtso-15764524.jpg",
+        "price":"$4000"
+    },
+    {
+        "id":4,
+        "product_name":"SWEAT SHIRT",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, temporibus alias velit ipsum, libero placeat unde hic accusamus eum commodi, sequi mollitia aperiam. Inventore hic nemo repellat accusamus eveniet qui, ",
+        "img":"/asset/pexels-dom-j-7304-45982.jpg",
+        "price":"$500"
+    },
+    {
+        "id":5,
+        "product_name":"GROCERY BAGS",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, temporibus alias velit ipsum, libero placeat unde hic accusamus eum commodi, sequi mollitia aperiam. Inventore hic nemo repellat accusamus eveniet qui, ",
+        "img":"/asset/pexels-max-fischer-5868241.jpg",
+        "price":"$200"
+    },
+    {
+        "id":6,
+        "product_name":"JEANS",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, temporibus alias velit ipsum, libero placeat unde hic accusamus eum commodi, sequi mollitia aperiam. Inventore hic nemo repellat accusamus eveniet qui, ",
+        "img":"/asset/pexels-godisable-jacob-226636-914668.jpg",
+        "price":"$6000"
+    }
+
+]

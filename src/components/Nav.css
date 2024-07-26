@@ -1,0 +1,29 @@
+.logo{
+    margin: 20px;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: 'Lobster',cursive;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    position: sticky;
+}
+header ul{
+    list-style: none;
+}
+.mode{
+    padding: 10px;
+    border-radius: 100%;
+    cursor: pointer;
+    /* background-color: rgba(83, 78, 63, 0.756); */
+    border: none;
+    font-size: larger;
+  }
+  nav ul li{
+    display: inline-flex;
+    margin-right: 20px;
+  }
